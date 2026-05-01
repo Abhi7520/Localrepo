@@ -1,7 +1,7 @@
 <!-- for local pc file u want to save in github do this followings. -->
-1. first make new repo in github 
+1. first make new repo in github  , make new folder in local then (git init) which creat gitrepo in you file then  
 
-2. copy link in code 
+2. copy link from github  and paste  code in v.s code 
 
 3. paste it in v.s terminal use this code (git remot add origin link )
 
