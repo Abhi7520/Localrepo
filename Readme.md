@@ -13,7 +13,7 @@
 
 7. only u have to use is (git push ) insted of git push origin main 
 
-#                                       Git Branches 
+#   Git Branches 
 
 1. Branches mean tree branch eg main , master etc .
 
@@ -34,3 +34,13 @@
 6. first switch to Another branch for delete which u want to delete  using (git checkout branchname (eg: main) ). 
 
 7. for delete Branch  use(git branch -d branchname ) .
+
+# for add 2nd branch in github 
+
+8. Agr branches alg alg hai jis branch pe jo kro k vo usi branch pe dikhe ga  
+
+9.  (git push origin file nam ) eg. git push origin featurel
+
+# For marge both file in whatever u make changes in both file  
+
+10. there are 2 ways 
