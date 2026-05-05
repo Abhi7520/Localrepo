@@ -41,6 +41,15 @@
 
 9.  (git push origin file nam ) eg. git push origin featurel
 
-# For marge both file in whatever u make changes in both file  
+# For merge both file in whatever u make changes in both file  
+10. For comapre both branch use (git diff main or featurel  )
 
-10. there are 2 ways 
+# There are 2 ways for merge branches  
+
+11. fist way using teminal in vs (git merge branch main)
+
+12. 2nd way using github . We create pr (pull request in github which let other know what changes u do and want to merge .When head of the project or manager review the code then he let the code merge. )  ()
+
+# Pull command for marge file in localReop (in pc )
+
+git pull origin main
