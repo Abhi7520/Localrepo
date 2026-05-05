@@ -48,8 +48,17 @@
 
 11. fist way using teminal in vs (git merge branch main)
 
-12. 2nd way using github . We create pr (pull request in github which let other know what changes u do and want to merge .When head of the project or manager review the code then he let the code merge. )  ()
+12. 2nd way using github . We create pr (pull request in github which let other know what changes u do and want to merge .When head of the project or manager review the code then he let the code merge. ) 
 
-# Pull command for marge file in localReop (in pc )
+# Steps
+  1. click on compare and pull request which come when we use this code in terminal (git push origin file name)
+  2. go to github click on compare & pull request
 
-git pull origin main
+  3.  Wite message in input 
+  4.  click on creat pull request button & let the github check everthing is ok . 
+
+  5.  after green click on (merge pull request) then confirm merge  clik on it 
+
+# Pull command for merge file in localReop (in pc )
+
+13. git pull origin main
