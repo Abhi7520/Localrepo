@@ -37,7 +37,7 @@
 
 # for add 2nd branch in github 
 
-8. Agr branches alg alg hai jis branch pe jo kro k vo usi branch pe dikhe ga  
+8. Agr branches alg alg hai jis branch pe jo kro ge vo usi branch pe dikhe ga  
 
 9.  (git push origin file nam ) eg. git push origin featurel
 
@@ -46,7 +46,7 @@
 
 # There are 2 ways for merge branches  
 
-11. fist way using teminal in vs (git merge branch main)
+11. fist way using teminal in vs (git merge branch main) if code on both branch are same on same line so its  give option to change or overwrite and other option then we have to use (git merge file name ) for change in other branch by merging both  .
 
 12. 2nd way using github . We create pr (pull request in github which let other know what changes u do and want to merge .When head of the project or manager review the code then he let the code merge. ) 
 
@@ -61,4 +61,4 @@
 
 # Pull command for merge file in localReop (in pc )
 
-13. use  (git pull origin main)
+13. use  (git pull origin main) 
