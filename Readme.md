@@ -39,7 +39,7 @@
 
 8. Agr branches alg alg hai jis branch pe jo kro ge vo usi branch pe dikhe ga  
 
-9.  (git push origin file nam ) eg. git push origin featurel
+9.  (git push origin file name ) eg. git push origin featurel
 
 # For merge both file in whatever u make changes in both file  
 10. For comapre both branch use (git diff main or featurel  )
