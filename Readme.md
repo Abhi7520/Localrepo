@@ -62,3 +62,30 @@
 # Pull command for merge file in localReop (in pc )
 
 13. use  (git pull origin main) 
+
+
+# Undoing changes how to undo line or file changes 
+
+Chase 1: these are for stage changes  jha add krliya pr commit nhi kiya 
+
+14.  Use (git reset filename)
+
+15.  For all file (use git reset)
+
+# after commit undo only for one  and use of log 
+
+16. after commit we dont want to use it so we can use (git reset Head~1) git cannot commit it and use previous one commit  and head me latest commit ye by defalut head name hota hai  
+
+17. use (git log )is for check we can see are commits
+
+# Want to do undo multipale commits 
+
+18.  Hash mean a perticular code with commit .
+ 
+ 19. copy commit hash(code) using (git log) code then coppy it use this code for undo comit use code  (git reset hashcode). 
+
+ 20. using  (git reset --hard hashcode ) isse hmare vs code me jo jo changes hai vo ht jaengei  
+
+ # Fork
+
+ 21. Fork  is for copy code in github and its create in your repository. 
