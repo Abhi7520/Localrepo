@@ -61,4 +61,4 @@
 
 # Pull command for merge file in localReop (in pc )
 
-13. git pull origin main
+13. use  (git pull origin main)
