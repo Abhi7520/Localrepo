@@ -2,7 +2,7 @@
 1. first make new repo in github  , make new folder in local pc then (git init) which creat gitrepo in you file then  
 for check gitrepo use (ls -a)
 3. copy link from github  and paste  code in v.s code 
-4. paste it in v.s terminal use this code (git remote add origin link )
+4. paste it in v.s terminal use this code (git remote add origin  Link )
 5. for check origin use (git remote -v ) which show u link  its confirm that your linked.
 6. you can also check which branch u are using main or master. use(git branch ) if branch is master for change its name use (git branch -M main ) which switch u to main branch .
 then first add you file in stage use (git add filename)
